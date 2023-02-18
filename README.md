@@ -1,6 +1,6 @@
 ### Hi!
 
-My name´s Gnolod and I want to be a cyber security specialist!
+My name´s Long Do and I want to be a cyber security specialist!
 
 ### About Me
 The learner of coding, who adores shogi and animation.
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 -->
 
 ### Stats
-![Codewars](https://www.codewars.com/users/gnolod/badges/small)
+[![Codewars badge](https://www.codewars.com/users/gnolod/badges/small)](https://www.codewars.com/users/gnolod)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/dogoln.png" alt="TryHackMe">
+[![TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/dogoln.png)](https://tryhackme.com/p/dogoln)
